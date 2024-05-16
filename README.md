@@ -47,11 +47,5 @@ pip install -r requirements.txt
 - **Answer Generation**: Leverages `ChatGoogleGenerativeAI` from LangChain for generating answers to user queries using the context provided by the uploaded documents.
 
 
-### Support
 
-For issues, questions, or contributions, please refer to the GitHub repository issues section or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 

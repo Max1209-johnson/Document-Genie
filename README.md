@@ -4,8 +4,9 @@
 
 Document Genie is a powerful Streamlit application designed to extract and analyze text from PDF documents, leveraging the advanced capabilities of Google's Generative AI, specifically the Gemini-PRO model. This tool uses a Retrieval-Augmented Generation (RAG) framework to offer precise, context-aware answers to user queries based on the content of uploaded documents.
 
+<img width="958" alt="document-genie jpg" src="https://github.com/Max1209-johnson/Document-Genie/assets/73350880/23729f64-723f-4a67-abf7-e1a373fd7390">
 
-!["document-genie.jpg"]
+
 
 ## Features
 
